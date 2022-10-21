@@ -1,0 +1,31 @@
+.option,.optionClicked{
+    background-color: #F5F7FB;
+    font-family: 'Inter', sans-serif;
+    font-weight: 500;
+    font-size: 0.98rem;
+    border: 2px solid #4D5B9E;
+    border-radius: 12px;
+    padding: 6px 10px;
+    color: #293264;
+    margin: 9px;
+    cursor: pointer;
+}
+.optionClicked{
+    background-color: #D6DBF5;
+    border: 2px solid #D6DBF5;
+}
+.disabledEvents{
+    pointer-events: none;
+}
+.correctClickedOption{
+    background-color: #94D7A2;
+    border: 2px solid #94D7A2;
+}
+.incorrectOption{
+    background-color: #F8BCBC;
+    border: 2px solid #F8BCBC;
+}
+.correctNotClickedOption{
+    background-color: rgb(55, 239, 230);
+    border: 2px solid rgb(55, 239, 230);
+}

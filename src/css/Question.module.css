@@ -1,0 +1,16 @@
+.container{
+    margin-block: 15px;
+}
+.question{
+    font-family: 'Karla', sans-serif;
+    font-size: 1.15rem;
+    color: #293264;
+}
+.options{
+    margin-top: 9px;
+}
+.rule{
+    margin-top: 9px;
+    border: 0; 
+    border-top: 2px solid #DBDEF0;
+}

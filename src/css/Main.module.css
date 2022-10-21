@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #F5F7FB;
+}
+.mainContent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    position: relative;
+}
+.yellowBlob{
+    align-self: flex-end;
+    width: 250px;
+}
+.blueBlob{
+    align-self: flex-start;
+    width: 250px;
+}
